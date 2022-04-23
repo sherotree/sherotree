@@ -1,4 +1,4 @@
-### Hi there, I'm Sherotree 👋![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=tangweikun.tangweikun&color=00cf00)
+### Hi there, I'm Sherotree 👋![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sherotree.sherotree&color=00cf00)
 
 💼 I'm working at [Terminus.io](https://www.terminus.io) [Erda](http://www.erda.cloud) FE team.
 
